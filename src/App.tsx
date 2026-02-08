@@ -127,7 +127,7 @@ var heartShape = confetti.shapeFromPath({
               alignItems: "center",
             }}
           >
-            <img src="/cat-kiss.gif" />
+            <img src="cat-kiss.gif" />
           </DialogContent>
         </Dialog>
       </div>
